@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1635135241701,
+  "index": "https://iamjuangonzalez.github.io/listas-pokemons/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://iamjuangonzalez.github.io/listas-pokemons/favicon.ico",
+        "https://iamjuangonzalez.github.io/listas-pokemons/index.html",
+        "https://iamjuangonzalez.github.io/listas-pokemons/main.ee5b2d80661fc2275e3b.js",
+        "https://iamjuangonzalez.github.io/listas-pokemons/manifest.webmanifest",
+        "https://iamjuangonzalez.github.io/listas-pokemons/polyfills.71ec607d48182b80cee3.js",
+        "https://iamjuangonzalez.github.io/listas-pokemons/runtime.b3db89aa9a3c7cbc209a.js",
+        "https://iamjuangonzalez.github.io/listas-pokemons/styles.31d6cfe0d16ae931b73c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-128x128.png",
+        "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-144x144.png",
+        "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-152x152.png",
+        "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-192x192.png",
+        "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-384x384.png",
+        "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-512x512.png",
+        "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-72x72.png",
+        "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-128x128.png": "9ce42b4477c75e87d663025221f5663d92b75a82",
+    "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-144x144.png": "df472fbbb1d68c506e3c22e56b860bc1c9299cd2",
+    "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-152x152.png": "c04cf3470f9c57deb4138aba94802bd34d3ca05e",
+    "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-192x192.png": "76f2f0a319ce3da72f994ced522e5ba3051fdebd",
+    "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-384x384.png": "21ef44b82aea6ccadeb933b01b3b7c1c2c3d633f",
+    "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-512x512.png": "a2f6bc7bf7e9da4e832da7f6b7f54f6e506029e6",
+    "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-72x72.png": "73728615d8c1f52854cada42715b01c9595cc675",
+    "https://iamjuangonzalez.github.io/listas-pokemons/assets/icons/icon-96x96.png": "cf1691c8611314e9553f056000ced4d2997f5b14",
+    "https://iamjuangonzalez.github.io/listas-pokemons/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://iamjuangonzalez.github.io/listas-pokemons/index.html": "257f49d9d7f19c58b44570ec169780c0b6b9f9dd",
+    "https://iamjuangonzalez.github.io/listas-pokemons/main.ee5b2d80661fc2275e3b.js": "bce12f69d01080356f576596f0f5942d4cbfdd27",
+    "https://iamjuangonzalez.github.io/listas-pokemons/manifest.webmanifest": "af68d485490326414ef76972680ac676d8570e7a",
+    "https://iamjuangonzalez.github.io/listas-pokemons/polyfills.71ec607d48182b80cee3.js": "afdccd189fc6dd6e6c66761e17e6d307e37dd186",
+    "https://iamjuangonzalez.github.io/listas-pokemons/runtime.b3db89aa9a3c7cbc209a.js": "3909da87adcf93e648c5c2eba0e146bca8ed483c",
+    "https://iamjuangonzalez.github.io/listas-pokemons/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
